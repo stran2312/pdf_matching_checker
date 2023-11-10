@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Python script, `file_hash_comparator.py`, is designed to compare the hash values of two files to determine whether they are identical. It utilizes the hashlib library to generate SHA-1 hashes of file contents and then compares these hash values.
+This Python script, `pdf.py`, is designed to compare the hash values of two files to determine whether they are identical. It utilizes the hashlib library to generate SHA-1 hashes of file contents and then compares these hash values.
 
 ## Prerequisites
 
