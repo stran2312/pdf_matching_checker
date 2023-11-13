@@ -1,4 +1,3 @@
-# pdf_matching_checker
 # File Hash Comparator
 
 ## Overview
